@@ -1,6 +1,10 @@
 Medo.X11Clipboard
 =================
 
+> ### Deprecated
+> Use [PTClipboard][https://www.nuget.org/packages/Medo.PTClipboard/] instead.
+> Source available at [GitHub](http://github.com/medo64/Medo.PTClipboard).
+
 X11Clipboard library is designed for applications that need to interact with the
 X11 clipboard system. This library provides essential functions for getting and
 setting UTF-8 text content for both X11's primary selection and clipboard. This
